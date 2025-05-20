@@ -1,0 +1,9 @@
+.ssh/
+.aws/
+.azure/
+.cursor/
+.docker/
+.gnupg/
+.idlerc/
+.venv/
+.vscode/
